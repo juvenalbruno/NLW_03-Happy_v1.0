@@ -31,7 +31,7 @@
 <h4>Janela Home/Mapa</h4>
 <img src="./Happy/happy02.png">
 <br/>
-<h4>Janela de Visualização (Exemplo)/h4>
+<h4>Janela de Visualização (Exemplo)</h4>
 <img src="./Happy/happy03.png">
 <br/> 
 <h4>Janela de Visualização (Exemplo)</h4>
