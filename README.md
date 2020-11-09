@@ -34,7 +34,7 @@
 <h4>Janela de Visualização (Exemplo)/h4>
 <img src="./Happy/happy03.png">
 <br/> 
-<h4>Janela de cadastro de Visualização (Exemplo)</h4>
+<h4>Janela de Visualização (Exemplo)</h4>
 <img src="./Happy/happy04.png">
 <br/>
 <h4>Janela de cadastro do Orfanato</h4>
