@@ -1,4 +1,4 @@
-<p align='center'><img width='200' src="./web/src/images/logo.svg"/></p>
+<p align='center'><img width='200' src="./web/src/images/logo.svg"/ background={{black}}></p>
 <h1 align='center'>Happy - NLW#3 - v1.0</h1>
 
 <h3>🔖 Descrição</h3>
