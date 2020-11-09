@@ -1,3 +1,4 @@
+<p align='center'><img width='200' src="NLW_03/web/src/images/logo.svg"/></p>
 <h1 align='center'>Happy - NLW#3 - v1.0</h1>
 
 <h3>🔖 Descrição</h3>
