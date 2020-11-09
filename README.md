@@ -28,20 +28,20 @@
 <h4>Janela inicial</h4>
 <img src="./Happy/happy01.png">
 <br/>
-<h4>Janela inicial</h4>
+<h4>Janela Home/Mapa</h4>
 <img src="./Happy/happy02.png">
 <br/>
-<h4>Janela de cadastro de Categorias</h4>
+<h4>Janela de Visualização (Exemplo)/h4>
 <img src="./Happy/happy03.png">
-<br/>
-<h4>Janela de cadastro de Video</h4>
+<br/> 
+<h4>Janela de cadastro de Visualização (Exemplo)</h4>
 <img src="./Happy/happy04.png">
 <br/>
-<h4>Janela de cadastro de Video</h4>
+<h4>Janela de cadastro do Orfanato</h4>
 <img src="./Happy/happy05.png">
 <br/>
-<h4>Janela de cadastro de Video</h4>
+<h4>Janela de cadastro do Orfanato</h4>
 <img src="./Happy/happy06.png">
 <br/>
-<h4>Janela de cadastro de Video</h4>
+<h4>Janela de cadastro do Orfanato</h4>
 <img src="./Happy/happy07.png">
