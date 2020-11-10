@@ -7,10 +7,10 @@
 <h3>🚀 Tecnologias</h3>
 <ul>
     <li><p>React</p></li>
-    <li><a href="https://reactrouter.com/" target="_blank">React Route</a></li>
-    <li><a href="" target="_blank">React Native</a></li>
-    <li><a href="" target="_blank">JavaScript</a></li>
-    <li><a href="" target="_blank">CSS</a></li>
+    <li><p>React Route</p></li>
+    <li><p>React Native</p></li>
+    <li><p>JavaScript</p></li>
+    <li><p>CSS</p></li>
 </ul>
 
 <h3>ℹ️ Como usar</h3>
