@@ -6,7 +6,7 @@
 
 <h3>🚀 Tecnologias</h3>
 <ul>
-    <li><a href="https://reactjs.org/" target="_blank">React</a></li>
+    <li><p>React</p></li>
     <li><a href="https://reactrouter.com/" target="_blank">React Route</a></li>
     <li><a href="" target="_blank">React Native</a></li>
     <li><a href="" target="_blank">JavaScript</a></li>
