@@ -6,7 +6,7 @@
 
 <h3>🚀 Tecnologias</h3>
 <ul>
-    <li><p>React</p></li>
+    <li><h4>React</h4></li>
     <li><p>React Route</p></li>
     <li><p>React Native</p></li>
     <li><p>JavaScript</p></li>
