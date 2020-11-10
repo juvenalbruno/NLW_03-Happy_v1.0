@@ -7,10 +7,10 @@
 <h3>🚀 Tecnologias</h3>
 <ul>
     <li><h4>React</h4></li>
-    <li><p>React Route</p></li>
-    <li><p>React Native</p></li>
-    <li><p>JavaScript</p></li>
-    <li><p>CSS</p></li>
+    <li><h4>React Route</h4></li>
+    <li><h4>React Native</h4></li>
+    <li><h4>JavaScript</h4></li>
+    <li><h4>CSS</h4></li>
 </ul>
 
 <h3>ℹ️ Como usar</h3>
