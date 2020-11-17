@@ -21,7 +21,13 @@
     # Instalar dependências do projeto
     $ npm install
     
-    # Executar o comando para rodar o projeto
+    # Executar o comando para rodar o projeto server
+    $ npm run dev
+    
+    # Executar o comando para rodar o projeto web
+    $ npm start
+    
+    # Executar o comando para rodar o projeto mobile
     $ npm start
 
 <h3>🖼 Layout</h3>
